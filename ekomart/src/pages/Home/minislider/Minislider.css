@@ -1,0 +1,40 @@
+.slick-list {
+    width: 100%;
+    float: left;
+    display: flex;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    gap: 4%;
+    padding: 3%;
+}
+
+.slick-list > div {
+  flex: 0 0 auto;
+  width: 144px;
+  text-align: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
+  border: 1px solid lightgray;
+}
+
+.slick-list img {
+  width: 95%;
+  height: auto;
+  border-radius: 8px;
+  transition: transform 0.3s ease;
+  padding: 0% 2%;
+}
+
+.slick-list h3 {
+  margin-top: 10px;
+  font-size: 16px;
+  color: black;
+  font-weight: 700;
+}
+
+
+.slick-list > div:hover {
+  transform: scale(1.1);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+  border-color: lightgreen;
+}

@@ -1,0 +1,190 @@
+.blog-container{
+    width: 100%;
+    float: left;
+    margin-top: 1%;
+    background-color: whitesmoke;
+    margin-bottom: 3%;
+}
+
+.blog-heading{
+    width: 100%;
+    float: left;
+}
+
+.blog-heading h2{
+    text-align: left;
+    margin-left: 3%;
+    margin-bottom: 3%;
+    background-color: white;
+}
+.blog-card1 {
+    width: 22%;
+    float: left;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-left: 2%;
+    margin-bottom: 3%;
+    
+}
+
+.blog-card1 img {
+    width: 90%;
+    cursor: pointer;
+    transition: transform 0.3s ease; 
+    transform: scale(1); 
+}
+
+.blog-card1:hover img {
+    transform: scale(1.05); 
+}
+
+.blog-card1 h3 {
+    font-size: 20px;
+    margin-top: 3%;
+    padding: 0% 4%;
+    text-align: justify;
+}
+.blog-card1:hover h3{
+    color: lightgreen;
+}
+.blog-card1 h4{
+    font-size: 20px;
+    margin-top: 2%;
+    text-align: justify;
+     padding: 0% 4%;
+}
+.blog-card1 h4 i{
+    color: black;
+    border-radius: 5px;
+    font-size: 25px;
+    background-color: lightgreen;
+    
+}
+
+
+
+.blog-card2 {
+    width: 22%;
+    float: left;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-left: 2%;
+    margin-bottom: 3%;
+}
+
+.blog-card2 img {
+    width: 90%;
+    cursor: pointer;
+    transition: transform 0.3s ease; 
+    transform: scale(1); 
+}
+
+.blog-card2:hover img {
+    transform: scale(1.05); 
+}
+
+.blog-card2 h3 {
+    font-size: 20px;
+    margin-top: 3%;
+    padding: 0% 4%;
+    text-align: justify;
+}
+.blog-card2:hover h3{
+    color: lightgreen;
+}
+.blog-card2 h4{
+    font-size: 20px;
+    margin-top: 2%;
+    text-align: justify;
+     padding: 0% 4%;
+}
+.blog-card2 h4 i{
+    color: black;
+    border-radius: 5px;
+    font-size: 25px;
+    background-color: lightgreen;
+    
+}
+
+
+.blog-card3 {
+    width: 22%;
+    float: left;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-left: 2%;
+    margin-bottom: 3%;
+}
+
+.blog-card3 img {
+    width: 90%;
+    cursor: pointer;
+    transition: transform 0.3s ease; 
+    transform: scale(1); 
+}
+
+.blog-card3:hover img {
+    transform: scale(1.05); 
+}
+.blog-card3 h3 {
+    font-size: 20px;
+    margin-top: 3%;
+    padding: 0% 4%;
+    text-align: justify;
+}
+.blog-card3:hover h3{
+    color: lightgreen;
+}
+.blog-card3 h4{
+    font-size: 20px;
+    margin-top: 2%;
+    text-align: justify;
+     padding: 0% 4%;
+}
+.blog-card3 h4 i{
+    color: black;
+    border-radius: 5px;
+    font-size: 25px;
+    background-color: lightgreen;
+    
+}
+
+
+.blog-card4 {
+    width: 22%;
+    float: left;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-left: 2%;
+    margin-bottom: 3%;
+}
+
+.blog-card4 img {
+    width: 90%;
+    cursor: pointer;
+    transition: transform 0.3s ease; 
+    transform: scale(1); 
+}
+
+.blog-card4:hover img {
+    transform: scale(1.05); 
+}
+
+.blog-card4 h3 {
+    font-size: 20px;
+    margin-top: 3%;
+    padding: 0% 4%;
+    text-align: justify;
+}
+.blog-card4:hover h3{
+    color: lightgreen;
+}
+.blog-card4 h4{
+    font-size: 20px;
+    margin-top: 2%;
+    text-align: justify;
+     padding: 0% 4%;
+}
+.blog-card4 h4 i{
+    color: black;
+    border-radius: 5px;
+    font-size: 25px;
+    background-color: lightgreen;
+    
+}
